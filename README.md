@@ -100,7 +100,10 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [Networking and Troubleshooting tools every developer should know](https://jameskinga.hashnode.dev/networking-and-troubleshooting-tools-every-developer-should-know)
+- [Important Network and Troubleshooting Tools for Linux](https://dev.to/james_kinga/important-network-and-troubleshooting-tools-for-linux-l7k)
+- [Getting Started with Docker &amp; Flask](https://dev.to/james_kinga/getting-started-with-docker-flask-44i)
 <!-- BLOG-POST-LIST:END -->  
 
 <!-- BLOG-POST-LIST:START -->  

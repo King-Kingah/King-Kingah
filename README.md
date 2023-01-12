@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm James, a network engineer specializing in automation, DevOps and backend development and conversant with frontend development 👨‍💻. I'm eager to learn and code relevant solutions 🚀</div>  
+### <div align="center">I'm James, a Full Stack Software Engineer with a strong background in network engineering, network automation, DevOps and backend development 👨‍💻. I'm eager to learn and code relevant solutions 🚀</div>  
   
 
 - 🔭 I’m currently working on [NeTest](https://github.com/King-Kingah/twitter_dev_bot)  

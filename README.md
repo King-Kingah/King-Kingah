@@ -98,7 +98,6 @@
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Simple Twitter Bot to Retweet &amp; Favorite Using Python &amp; Tweepy](https://dev.to/james_kinga/simple-twitter-bot-to-retweet-favorite-using-python-tweepy-50bg)
-- [Networking and Troubleshooting tools every developer should know](https://jameskinga.hashnode.dev/networking-and-troubleshooting-tools-every-developer-should-know)
 - [Important Network and Troubleshooting Tools for Linux](https://dev.to/james_kinga/important-network-and-troubleshooting-tools-for-linux-l7k)
 - [Getting Started with Docker &amp; Flask](https://dev.to/james_kinga/getting-started-with-docker-flask-44i)
 <!-- BLOG-POST-LIST:END -->  
